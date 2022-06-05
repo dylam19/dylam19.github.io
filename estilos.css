@@ -1,3 +1,4 @@
+
 .button{
 	position:relative;
 	width: 130px;
@@ -11,7 +12,6 @@
 	transition: width .5s;
 	border-radius: .5s;
 }
-
 .button *{
 	position: absolute;
 	top: 50%;
@@ -24,7 +24,7 @@
 }
 .button:focus{
 	width: 50px;
-	background-color: #1d88c6;
+	background-color: #1dc663;
 	border-radius: 50%;
 }
 .button:focus .text{
